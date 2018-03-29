@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+node_modules2/
+Properties/PublishProfiles
+bin/
+tmp/
+wwwroot/app/
+wwwroot/admin/
+wwwroot/static/
+obj/
+appsettings.json
+appsettings.*.json
+npm-debug.log*
+selenium-debug.log
+*.user
+.vscode
+.vs/
